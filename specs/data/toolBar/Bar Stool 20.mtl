@@ -1,0 +1,67 @@
+# FILE:Bar Stool 20.obj
+newmtl GDLM1_SHADOW_MATERIAL
+Ka 0.228885 0.228885 0.228885
+Kd 0.228885 0.228885 0.228885
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl WOOD_-_PINE_GRAINED_HORIZONTAL
+Ka 0.501882 0.459529 0.389647
+Kd 0.697059 0.638235 0.541176
+Ks 0.343647 0.343647 0.343647
+illum 2
+Ns 0
+map_Ka Bar Stool 20_Textures\Pine Grain 01-opt GS.jpg
+map_Kd Bar Stool 20_Textures\Pine Grain 01-opt GS.jpg
+map_Ks Bar Stool 20_Textures\Pine Grain 01-opt GS.jpg
+newmtl TEXTILE_-_01
+Ka 0.660706 0.633176 0.608706
+Kd 0.762353 0.730588 0.702353
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka Bar Stool 20_Textures\Fabric GS.jpg
+map_Kd Bar Stool 20_Textures\Fabric GS.jpg
+map_Ks Bar Stool 20_Textures\Fabric GS.jpg
+newmtl BRICK_-_RUNNING_BOND
+Ka 0.459804 0.236471 0.197059
+Kd 0.42549 0.218824 0.182353
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka Bar Stool 20_Textures\Brick Running Alpha GS.jpg
+map_Kd Bar Stool 20_Textures\Brick Running Alpha GS.jpg
+map_Ks Bar Stool 20_Textures\Brick Running Alpha GS.jpg
+newmtl GDLM5_OPAQUE
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl PAINT_-_PEACH
+Ka 0.626471 0.423216 0.356392
+Kd 0.714706 0.482824 0.406588
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl METAL_-_STAINLESS_STEEL
+Ka 0.80098 0.786078 0.808431
+Kd 0.286667 0.281333 0.289333
+Ks 0.923922 0.923922 0.923922
+illum 2
+Ns 18
+newmtl LEATHER_-_TABAC
+Ka 0.284798 0.11335 0.0423066
+Kd 0.289884 0.115374 0.043062
+Ks 0.542196 0.454667 0.413333
+illum 2
+Ns 4.6
+map_Ka Bar Stool 20_Textures\Leather 02 GS.jpg
+map_Kd Bar Stool 20_Textures\Leather 02 GS.jpg
+map_Ks Bar Stool 20_Textures\Leather 02 GS.jpg
+newmtl METAL_-_CHROME_01
+Ka 0.36702 0.36702 0.36702
+Kd 0.494353 0.494353 0.494353
+Ks 0.96 0.96 0.96
+illum 2
+Ns 53.92

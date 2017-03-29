@@ -12,3 +12,6 @@ doc
 output
 test
 *.tgz
+*.gltf
+specs/data/archicad
+specs/data/chenzhou

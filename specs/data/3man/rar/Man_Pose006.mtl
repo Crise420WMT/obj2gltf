@@ -1,0 +1,180 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration 
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+newmtl Figure_1_Man_Suit_Shirt
+	 Ka 0 0 0
+	 Kd 0.501961 0.701961 1
+	 Ks 1.88988e-006 2.64288e-006 3.765e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Suit_Tie_1
+	 Ka 0 0 0
+	 Kd 0.501961 0 0
+	 Ks 2.8346e-006 0 0
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Pants_Leg_Right
+	 Ka 0 0 0
+	 Kd 1 0.976471 0.843137
+	 Ks 4.00556e-006 3.91132e-006 3.37724e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Pants_Leg_Left
+	 Ka 0 0 0
+	 Kd 1 0.976471 0.843137
+	 Ks 4.00556e-006 3.91132e-006 3.37724e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Shoelace
+	 Ka 0 0 0
+	 Kd 0.25098 0.187989 0.132872
+	 Ks 4.95085e-006 3.70828e-006 2.62104e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Shoe_Inside
+	 Ka 0 0 0
+	 Kd 0.486275 0.360415 0.247905
+	 Ks 5.01961e-006 3.72042e-006 2.55902e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Shoe
+	 Ka 0 0 0
+	 Kd 0.112957 0.112957 0.112957
+	 Ks 1.18728e-006 1.18728e-006 1.18728e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Shoe_Sole
+	 Ka 0 0 0
+	 Kd 0.0235294 0.0235294 0.0235294
+	 Ks 7.52941e-007 7.52941e-007 7.52941e-007
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Gums
+	 Ka 0 0 0
+	 Kd 0.705882 0.404152 0.404152
+	 Ks 5.26669e-006 3.01544e-006 3.01544e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Head
+	 Ka 0 0 0
+	 Kd 0.909804 0.738547 0.54945
+	 Ks 4.67899e-006 3.79824e-006 2.82574e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Torso
+	 Ka 0 0 0
+	 Kd 0.909804 0.738547 0.54945
+	 Ks 4.67899e-006 3.79824e-006 2.82574e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Tongue
+	 Ka 0 0 0
+	 Kd 0.705882 0.404152 0.404152
+	 Ks 5.26669e-006 3.01544e-006 3.01544e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Teeth
+	 Ka 0 0 0
+	 Kd 0.705882 0.404152 0.404152
+	 Ks 5.26669e-006 3.01544e-006 3.01544e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Hair
+	 Ka 0 0 0
+	 Kd 0.421007 0.24975 0.178393
+	 Ks 2.16518e-006 1.28443e-006 9.1745e-007
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Tear_Duct
+	 Ka 0 0 0
+	 Kd 0.909804 0.738547 0.54945
+	 Ks 4.67899e-006 3.79824e-006 2.82574e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Pupil
+	 Ka 0 0 0
+	 Kd 1 1 1
+	 Ks 3.76471e-006 3.76471e-006 3.76471e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Iris
+	 Ka 0 0 0
+	 Kd 0.200692 0.200692 0.568627
+	 Ks 2.34005e-006 2.34005e-006 6.63015e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Eye
+	 Ka 0 0 0
+	 Kd 1 1 1
+	 Ks 3.76471e-006 3.76471e-006 3.76471e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Cornea_Inner
+	 Ka 0 0 0
+	 Kd 0.501961 0.501961 0.501961
+	 Ks 3.76471e-006 3.76471e-006 3.76471e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Cornea_Outer
+	 Ka 0 0 0
+	 Kd 0.501961 0.501961 0.501961
+	 Ks 3.76471e-006 3.76471e-006 3.76471e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Black
+	 Ka 0 0 0
+	 Kd 1 1 1
+	 Ks 3.76471e-006 3.76471e-006 3.76471e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Shirt_Buttons
+	 Ka 0 0 0
+	 Kd 1 1 1
+	 Ks 3.76471e-006 3.76471e-006 3.76471e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Palm_Left
+	 Ka 0 0 0
+	 Kd 0.909804 0.738547 0.54945
+	 Ks 4.67899e-006 3.79824e-006 2.82574e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Hand_Left
+	 Ka 0 0 0
+	 Kd 0.909804 0.738547 0.54945
+	 Ks 4.67899e-006 3.79824e-006 2.82574e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Fingernails_Left
+	 Ka 0 0 0
+	 Kd 0.941177 0.793541 0.642215
+	 Ks 4.47292e-006 3.77128e-006 3.05211e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Palm_Right
+	 Ka 0 0 0
+	 Kd 0.909804 0.738547 0.54945
+	 Ks 4.67899e-006 3.79824e-006 2.82574e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Hand_Right
+	 Ka 0 0 0
+	 Kd 0.909804 0.738547 0.54945
+	 Ks 4.67899e-006 3.79824e-006 2.82574e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Arm_Right
+	 Ka 0 0 0
+	 Kd 0.909804 0.738547 0.54945
+	 Ks 4.67899e-006 3.79824e-006 2.82574e-006
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Man_Fingernails_Right
+	 Ka 0 0 0
+	 Kd 0.941177 0.793541 0.642215
+	 Ks 4.47292e-006 3.77128e-006 3.05211e-006
+	 illum 2
+	 Ns 2.2518e+015
